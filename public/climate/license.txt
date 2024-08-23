@@ -1,0 +1,11 @@
+Model Information:
+* title:	Weather And Climate
+* source:	https://sketchfab.com/3d-models/weather-and-climate-a43160c7f121424fa9c5597af7aa77d4
+* author:	Naveen Manja (https://sketchfab.com/naveen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Weather And Climate" (https://sketchfab.com/3d-models/weather-and-climate-a43160c7f121424fa9c5597af7aa77d4) by Naveen Manja (https://sketchfab.com/naveen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

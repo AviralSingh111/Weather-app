@@ -1,0 +1,867 @@
+[
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Sarita Vihar",
+    "localityId": "ZWL005764",
+    "latitude": 28.531759,
+    "longitude": 77.293973,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Faridabad Sector 41-50",
+    "localityId": "ZWL008752",
+    "latitude": 28.460895,
+    "longitude": 77.304764,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "New Friends Colony",
+    "localityId": "ZWL005996",
+    "latitude": 28.565268,
+    "longitude": 77.274971,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Sector 26 (Noida)",
+    "localityId": "ZWL005243",
+    "latitude": 28.574404,
+    "longitude": 77.334178,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "New Industrial Town",
+    "localityId": "ZWL009032",
+    "latitude": 28.375702,
+    "longitude": 77.299442,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Tilak Nagar",
+    "localityId": "ZWL005428",
+    "latitude": 28.641372,
+    "longitude": 77.094689,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Sector 10, Gurgaon",
+    "localityId": "ZWL001073",
+    "latitude": 28.436077,
+    "longitude": 76.996757,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Ashok Vihar, Delhi",
+    "localityId": "ZWL001319",
+    "latitude": 28.684453,
+    "longitude": 77.174418,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Kalkaji",
+    "localityId": "ZWL004800",
+    "latitude": 28.529029,
+    "longitude": 77.258939,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Sector 53",
+    "localityId": "ZWL003118",
+    "latitude": 28.442743,
+    "longitude": 77.104379,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Sector 49",
+    "localityId": "ZWL002091",
+    "latitude": 28.408012,
+    "longitude": 77.050064,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Vasundhara",
+    "localityId": "ZWL002662",
+    "latitude": 28.665225,
+    "longitude": 77.366782,
+    "device_type": "2 - Rain gauge system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Rajinder Nagar",
+    "localityId": "ZWL001404",
+    "latitude": 28.640732,
+    "longitude": 77.182900,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Safdarjung Enclave",
+    "localityId": "ZWL008963",
+    "latitude": 28.562608,
+    "longitude": 77.191457,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Connaught Place",
+    "localityId": "ZWL006538",
+    "latitude": 28.630630,
+    "longitude": 77.220640,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Sector 66",
+    "localityId": "ZWL003075",
+    "latitude": 28.380856,
+    "longitude": 77.062751,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Sector 57",
+    "localityId": "ZWL003721",
+    "latitude": 28.422100,
+    "longitude": 77.082740,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Moti Bagh, Delhi",
+    "localityId": "ZWL006396",
+    "latitude": 28.575774,
+    "longitude": 77.180697,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Patel Nagar, Delhi",
+    "localityId": "ZWL004535",
+    "latitude": 28.652848,
+    "longitude": 77.167909,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Greater Noida",
+    "localityId": "ZWL008554",
+    "latitude": 28.456171,
+    "longitude": 77.521577,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Karkardooma, Delhi",
+    "localityId": "ZWL004533",
+    "latitude": 28.656829,
+    "longitude": 77.310553,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Tigaon",
+    "localityId": "ZWL002179",
+    "latitude": 28.417120,
+    "longitude": 77.412569,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Sector 50 (Noida)",
+    "localityId": "ZWL007487",
+    "latitude": 28.569103,
+    "longitude": 77.364876,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Vasant Kunj, Delhi",
+    "localityId": "ZWL007120",
+    "latitude": 28.524633,
+    "longitude": 77.151206,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Dwarka, Delhi",
+    "localityId": "ZWL007486",
+    "latitude": 28.594467,
+    "longitude": 77.047747,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Sector 15",
+    "localityId": "ZWL006287",
+    "latitude": 28.457927,
+    "longitude": 77.034816,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Mayur Vihar Phase III",
+    "localityId": "ZWL002146",
+    "latitude": 28.606000,
+    "longitude": 77.323675,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Crossing Republik",
+    "localityId": "ZWL008405",
+    "latitude": 28.635043,
+    "longitude": 77.419056,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Sector 28",
+    "localityId": "ZWL004455",
+    "latitude": 28.473457,
+    "longitude": 77.087532,
+    "device_type": "1 - Automated weather system"
+  },
+  {
+    "cityName": "Delhi NCR",
+    "localityName": "Palam Vihar, Gurgaon",
+    "localityId": "ZWL005087",
+    "latitude": 28.508782,
+    "longitude": 77.033506,
+    "device_type": "1 - Automated weather system"
+  },
+  
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Sector 63 (Noida)",
+      "localityId": "ZWL009648",
+      "latitude": 28.621672,
+      "longitude": 77.386474,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Raj Nagar, Ghaziabad",
+      "localityId": "ZWL008317",
+      "latitude": 28.689174,
+      "longitude": 77.428976,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Sector 128",
+      "localityId": "ZWL005878",
+      "latitude": 28.526706,
+      "longitude": 77.354868,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Sector 56, Gurgaon",
+      "localityId": "ZWL003241",
+      "latitude": 28.418235,
+      "longitude": 77.101860,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Indirapuram",
+      "localityId": "ZWL007224",
+      "latitude": 28.644059,
+      "longitude": 77.373883,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Malviya Nagar",
+      "localityId": "ZWL009834",
+      "latitude": 28.536048,
+      "longitude": 77.213453,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Sector 43, Gurgaon",
+      "localityId": "ZWL007284",
+      "latitude": 28.454416,
+      "longitude": 77.088820,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Sector 120 (Noida)",
+      "localityId": "ZWL006738",
+      "latitude": 28.586854,
+      "longitude": 77.390832,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Saket",
+      "localityId": "ZWL007329",
+      "latitude": 28.523171,
+      "longitude": 77.207543,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Sector 18 (Noida)",
+      "localityId": "ZWL001752",
+      "latitude": 28.568937,
+      "longitude": 77.324414,
+      "device_type": "2 - Rain gauge system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Naraina",
+      "localityId": "ZWL007594",
+      "latitude": 28.627479,
+      "longitude": 77.142115,
+      "device_type": "2 - Rain gauge system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Patparganj",
+      "localityId": "ZWL006116",
+      "latitude": 28.632961,
+      "longitude": 77.308344,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Ghitorni",
+      "localityId": "ZWL009925",
+      "latitude": 28.486412,
+      "longitude": 77.125366,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Faridabad Sector 1-11",
+      "localityId": "ZWL009335",
+      "latitude": 28.365131,
+      "longitude": 77.326157,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Sector 24",
+      "localityId": "ZWL009638",
+      "latitude": 28.497419,
+      "longitude": 77.090980,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Rajouri Garden",
+      "localityId": "ZWL005670",
+      "latitude": 28.646438,
+      "longitude": 77.122357,
+      "device_type": "2 - Rain gauge system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Vishnu Garden",
+      "localityId": "ZWL003757",
+      "latitude": 28.646933,
+      "longitude": 77.095064,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Sector 48, Gurgaon",
+      "localityId": "ZWL003610",
+      "latitude": 28.416008,
+      "longitude": 77.032164,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Kirti Nagar",
+      "localityId": "ZWL005971",
+      "latitude": 28.654433,
+      "longitude": 77.142367,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Faridabad Sector 81-89",
+      "localityId": "ZWL003626",
+      "latitude": 28.397247,
+      "longitude": 77.345569,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "GK I",
+      "localityId": "ZWL005876",
+      "latitude": 28.550911,
+      "longitude": 77.235272,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Mohan Estate",
+      "localityId": "ZWL006295",
+      "latitude": 28.494788,
+      "longitude": 77.312727,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Mukherjee Nagar",
+      "localityId": "ZWL007653",
+      "latitude": 28.702971,
+      "longitude": 77.209740,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Mehrauli",
+      "localityId": "ZWL006697",
+      "latitude": 28.524426,
+      "longitude": 77.183996,
+      "device_type": "2 - Rain gauge system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Burari",
+      "localityId": "ZWL003259",
+      "latitude": 28.753669,
+      "longitude": 77.191037,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Gaur city, Ghaziabad",
+      "localityId": "ZWL004759",
+      "latitude": 28.607703,
+      "longitude": 77.434385,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "GK II",
+      "localityId": "ZWL004477",
+      "latitude": 28.533936,
+      "longitude": 77.243800,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Rohini",
+      "localityId": "ZWL005077",
+      "latitude": 28.723712,
+      "longitude": 77.104596,
+      "device_type": "2 - Rain gauge system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Rangpuri",
+      "localityId": "ZWL008191",
+      "latitude": 28.533976,
+      "longitude": 77.119516,
+      "device_type": "1 - Automated weather system"
+    },
+    {
+      "cityName": "Delhi NCR",
+      "localityName": "Sector 46",
+      "localityId": "ZWL006092",
+      "latitude": 28.438586,
+      "longitude": 77.060773,
+      "device_type": "1 - Automated weather system"
+    },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 62 (Noida)",
+        "localityId": "ZWL001549",
+        "latitude": 28.611088,
+        "longitude": 77.369652,
+        "device_type": "2 - Rain gauge system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Shalimar Bagh",
+        "localityId": "ZWL001036",
+        "latitude": 28.720312,
+        "longitude": 77.164849,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Model Town",
+        "localityId": "ZWL006996",
+        "latitude": 28.717232,
+        "longitude": 77.194643,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Faridabad Sector 16-20",
+        "localityId": "ZWL007566",
+        "latitude": 28.422437,
+        "longitude": 77.310113,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 2 (Noida)",
+        "localityId": "ZWL009852",
+        "latitude": 28.581459,
+        "longitude": 77.316720,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Govindpuram",
+        "localityId": "ZWL008648",
+        "latitude": 28.689317,
+        "longitude": 77.486930,
+        "device_type": "2 - Rain gauge system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Gwal Pahari",
+        "localityId": "ZWL009728",
+        "latitude": 28.435122,
+        "longitude": 77.136308,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Nehru Nagar",
+        "localityId": "ZWL006868",
+        "latitude": 28.653441,
+        "longitude": 77.449969,
+        "device_type": "2 - Rain gauge system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Chittaranjan Park",
+        "localityId": "ZWL002067",
+        "latitude": 28.537530,
+        "longitude": 77.249070,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "IMT Manesar",
+        "localityId": "ZWL008791",
+        "latitude": 28.384492,
+        "longitude": 76.941950,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 73 Z Kitchen",
+        "localityId": "ZWL003043",
+        "latitude": 28.580105,
+        "longitude": 77.385436,
+        "device_type": "2 - Rain gauge system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 51",
+        "localityId": "ZWL004159",
+        "latitude": 28.430042,
+        "longitude": 77.065213,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Ballabhgarh",
+        "localityId": "ZWL005960",
+        "latitude": 28.343049,
+        "longitude": 77.330317,
+        "device_type": "2 - Rain gauge system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Nangloi",
+        "localityId": "ZWL009293",
+        "latitude": 28.659524,
+        "longitude": 77.060800,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Uttam Nagar",
+        "localityId": "ZWL001663",
+        "latitude": 28.616774,
+        "longitude": 77.057136,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 47",
+        "localityId": "ZWL005762",
+        "latitude": 28.424524,
+        "longitude": 77.050065,
+        "device_type": "2 - Rain gauge system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Paharganj",
+        "localityId": "ZWL005345",
+        "latitude": 28.645112,
+        "longitude": 77.212824,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 25",
+        "localityId": "ZWL008225",
+        "latitude": 28.484268,
+        "longitude": 77.084693,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Pitampura",
+        "localityId": "ZWL001933",
+        "latitude": 28.688724,
+        "longitude": 77.138225,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Shahdara",
+        "localityId": "ZWL003591",
+        "latitude": 28.688657,
+        "longitude": 77.278267,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 31",
+        "localityId": "ZWL007061",
+        "latitude": 28.442946,
+        "longitude": 77.057195,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 23",
+        "localityId": "ZWL008476",
+        "latitude": 28.509080,
+        "longitude": 77.057138,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 12 (Noida)",
+        "localityId": "ZWL009008",
+        "latitude": 28.599952,
+        "longitude": 77.343188,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Mayur Vihar Phase II",
+        "localityId": "ZWL005323",
+        "latitude": 28.613695,
+        "longitude": 77.302775,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Faridabad Sector 12-15",
+        "localityId": "ZWL001412",
+        "latitude": 28.394334,
+        "longitude": 77.324016,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "DLF PHASE 1 (SECTOR 26)",
+        "localityId": "ZWL005925",
+        "latitude": 28.477910,
+        "longitude": 77.103843,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Laxmi Nagar",
+        "localityId": "ZWL008716",
+        "latitude": 28.627366,
+        "longitude": 77.279200,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Karol Bagh",
+        "localityId": "ZWL009339",
+        "latitude": 28.647924,
+        "longitude": 77.190463,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Chhatarpur",
+        "localityId": "ZWL009096",
+        "latitude": 28.497203,
+        "longitude": 77.171629,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Paschim Vihar",
+        "localityId": "ZWL006720",
+        "latitude": 28.665591,
+        "longitude": 77.098478,
+        "device_type": "2 - Rain gauge system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 1, Noida",
+        "localityId": "ZWL002908",
+        "latitude": 28.573663,
+        "longitude": 77.415427,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "South Extension I",
+        "localityId": "ZWL001186",
+        "latitude": 28.578498,
+        "longitude": 77.223627,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 18",
+        "localityId": "ZWL004789",
+        "latitude": 28.495291,
+        "longitude": 77.069729,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Kamla Nagar",
+        "localityId": "ZWL008978",
+        "latitude": 28.676018,
+        "longitude": 77.208446,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Janakpuri",
+        "localityId": "ZWL007903",
+        "latitude": 28.623431,
+        "longitude": 77.097814,
+        "device_type": "2 - Rain gauge system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Vikaspuri",
+        "localityId": "ZWL008897",
+        "latitude": 28.645655,
+        "longitude": 77.065922,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Najafgarh",
+        "localityId": "ZWL007431",
+        "latitude": 28.607458,
+        "longitude": 76.995980,
+        "device_type": "2 - Rain gauge system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Mayur Vihar Phase 1",
+        "localityId": "ZWL001112",
+        "latitude": 28.609961,
+        "longitude": 77.296133,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sez Noida 1",
+        "localityId": "ZWL008649",
+        "latitude": 28.507448,
+        "longitude": 77.410089,
+        "device_type": "2 - Rain gauge system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Gulavali, Noida",
+        "localityId": "ZWL006384",
+        "latitude": 28.436941,
+        "longitude": 77.456903,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 14",
+        "localityId": "ZWL007840",
+        "latitude": 28.471738,
+        "longitude": 77.045472,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 76(Noida)",
+        "localityId": "ZWL002072",
+        "latitude": 28.570828,
+        "longitude": 77.390429,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Green Park",
+        "localityId": "ZWL003077",
+        "latitude": 28.562981,
+        "longitude": 77.209729,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Munirka",
+        "localityId": "ZWL005395",
+        "latitude": 28.554395,
+        "longitude": 77.172547,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "NEHRU PLACE",
+        "localityId": "ZWL005729",
+        "latitude": 28.555622,
+        "longitude": 77.250890,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Lajpat Nagar",
+        "localityId": "ZWL005736",
+        "latitude": 28.565415,
+        "longitude": 77.247221,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 52 (Noida)",
+        "localityId": "ZWL007212",
+        "latitude": 28.595742,
+        "longitude": 77.362995,
+        "device_type": "1 - Automated weather system"
+      },
+      {
+        "cityName": "Delhi NCR",
+        "localityName": "Sector 100 (Noida)",
+        "localityId": "ZWL004803",
+        "latitude": 28.547583,
+        "longitude": 77.370951,
+        "device_type": "1 - Automated weather system"
+      }
+]
