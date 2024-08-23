@@ -13,7 +13,7 @@ import Loader from '@/components/Loader';
 
 function Model() {
   const { scene } = useGLTF('/climate/scene.gltf');
-  const groupRef = useRef();
+  const groupRef = useRef<THREE.Group>(null);
   const isRotating = useRef(true);
 
   useEffect(() => {
@@ -32,7 +32,7 @@ function Model() {
 
   useFrame((state, delta) => {
     if (groupRef.current && isRotating.current) {
-      groupRef.current.rotation.y += delta * 0.4; // x-axis rotation
+      groupRef.current.rotation.y += delta * 0.4; // y-axis rotation
     }
   });
 
@@ -59,7 +59,6 @@ function Model() {
       <primitive 
         object={scene} 
         scale={[0.03, 0.03, 0.03]}
-        position={[0, 0.1, 0]}
       />
     </group>
   );
