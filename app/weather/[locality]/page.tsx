@@ -135,7 +135,7 @@ export default function WeatherDetails() {
             </div>
             
             {/* 3D Model in the center */}
-            <div className="h-[500px] md:h-[400px] lg:h-[500px] mt-10">
+            <div className="h-[300px] md:h-[400px] lg:h-[500px] mt-10">
               <WeatherScene />
             </div>
             
@@ -153,7 +153,7 @@ export default function WeatherDetails() {
         </div>
       )}
       
-      <Link href="/" className="block text-center bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out max-w-xs mx-auto">
+      <Link href="/" className="sm:mt-0 mt-5 block text-center bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out max-w-xs mx-auto">
         Search Another Location
       </Link>
     </div>
